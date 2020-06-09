@@ -14,8 +14,9 @@ to make it accross while avoiding all the incoming danger along the way.
 
 ## Tech Being Used
 
-HTML/CSS - Canvas to hold the game
-JavaScript
+- HTML/CSS
+- Canvas to hold the game
+- JavaScript
 
 ## MVP Checklist
 
