@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Metal Mania", cursive;
+  text-align: center;
+}
+
+h1,
+h3 {
+  color: #97ce4c;
+}
+
+.game-container {
+  max-width: 800px;
+  max-height: auto;
+  margin: 0 auto;
+  background-color: #222;
+  color: #97ce4c;
+}
+
+.row .col {
+  padding: 15px;
+  font-size: 25px;
+}
+
+.game-container .row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0px;
+}
+
+.game-title {
+}
+
+.game-status {
+  text-align: center;
+  padding: 15px;
+}
+
+.game-message {
+  padding: 15px;
+  text-align: center;
+}
