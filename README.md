@@ -20,19 +20,21 @@ to make it accross while avoiding all the incoming danger along the way.
 
 ## MVP Checklist
 
-- Render starting area
-- Render ending area
-- Render oncoming traffic
-- Add sprites for characters
-- Have player be able to move
-- End game if collision with enemy
-- Track/Display time each round
+- Render starting area (Complete)
+- Render ending area (Complete)
+- Render oncoming traffic (Complete)
+- Add sprites for characters (Complete)
+- Have player be able to move (Complete)
+- End game if collision with enemy (Complete)
+- Enable player to choose character (Incomplete)
+- Track/Display time each round (Incomplete)
 
 ## Stretch Goals
 
-- Have enemy collisions do % damage
-- Track player health
-- Have player enter name before playing
+- Add sprite animations (N/A)
+- Have enemy collisions do % damage (N/A)
+- Track player health (N/A)
+- Have player enter name before playing (N/A)
 - Track/Display names of players who completed
-  game in the quickest amount of time(in order 1-10)
-- Add sound effects
+  game in the quickest amount of time(in order 1-10) (N/A)
+- Add sound effects (N/A)
