@@ -41,6 +41,7 @@ let left = true;
 const keyDownHandler = (e) => {
   switch (e.key) {
     case "w":
+      console.log(e.key);
       upPressed = true;
       break;
     case "a":
@@ -351,7 +352,6 @@ const drawAll = () => {
   requestAnimationFrame(drawAll);
 };
 
-/*------------- REFACTOR THIS -------------------- */
 const drawEnemies = () => {
   // PICKLE RICKS
   pickleRick1.render();
@@ -570,7 +570,7 @@ const moveMorty = () => {
     down = true;
   }
 };
-/* ------------------ REFACTOR THIS (ITERATOR FUNCTION) ----------------------- */
+
 const checkCollide = () => {
   // GUNK RICK COLLIDE
   if (
